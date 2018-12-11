@@ -1,1 +1,1 @@
-# Program-2-Pecahan-Algoritma-1
+# Program 2 Pecahan
